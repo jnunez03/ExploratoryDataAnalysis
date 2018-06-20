@@ -1,6 +1,6 @@
 # Exploratory Data Analysis EDA
 
-## Objective:
+## Objectives:
 1) Characteristics associated with mobile conversions
 2) Characteristics associated with desktop conversions 
 3) Other Useful things!
