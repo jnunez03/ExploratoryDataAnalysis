@@ -34,7 +34,7 @@
 - Paid Search        65
 - Other               1
 ## TOTAL: 358 Phone Orders. 191 came through mobile, 144 started at desktop!
-## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data)
+## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data).
 __________________________________________________________________________________________________________________________
 ## Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
 ![where1](https://user-images.githubusercontent.com/23710841/41640781-ef8a32f6-7430-11e8-8ece-6854d2d9b042.png)
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 - Paid Search        87
 - Other               2
 ## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
-## 1.51% Conversion rate give time frame.. (based on subset of data)
+## 1.51% Conversion rate give time frame (based on subset of data).
 ___________________________________________________________________________________________________________________________
 # Let's look at people who did not convert .... 
 ### Quick Notes on non conversion
