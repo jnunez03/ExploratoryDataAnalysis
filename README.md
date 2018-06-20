@@ -53,7 +53,7 @@ ________________________________________________________________________________
 ![where1](https://user-images.githubusercontent.com/23710841/41641808-7c24b026-7434-11e8-9172-1571c74a7b00.png)
 - Alot of non-conversion obviously came from people on desktop (there were more in the dataset), but we see that the trend between Direct entry, paid search, natural search all decrease the same way for mobile users. This could be significant.
 - Less people convert when there is direct entry.
-- In contrast, direct entry did well for phone and cart orders as well as phone orders who were using their phones.
+- Direct entry did well for phone and cart orders as well as phone orders who were using their phones.
 ![distinct1](https://user-images.githubusercontent.com/23710841/41641806-7bfe1f38-7434-11e8-8d21-bf77747a5c15.png)
 - No more than 1 page is visited, generally. 
 ![distinct2](https://user-images.githubusercontent.com/23710841/41641807-7c16051c-7434-11e8-9988-bdd3ffd3b4a8.png)
