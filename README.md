@@ -1,4 +1,4 @@
-# Exploratory Data Analysis EDA
+# Exploratory Data Analysis (EDA for short)
 
 ## Objectives:
 1) Characteristics associated with mobile conversions
