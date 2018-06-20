@@ -64,6 +64,7 @@ df1['Start Time'].value_counts()
 
 
 
+# ****  VISUALS FOR PHONE ORDERS  ****
 
 df2.head()
 df2 = df[df['Phone Order'] == 1]
@@ -93,7 +94,9 @@ a = sb.factorplot(x='Distinct Page Views', hue='Device Type', col='Phone Order',
               data=df2, kind='count', size=7, aspect=.7)
 sb.plt.title('Phone Orders: How many pages were clicked? \n')
 
-# CART ORDERS
+
+
+# ***** VISUALS FOR  CART ORDERS
 b = sb.factorplot(x='Device Type', hue='traffic Source', col='Phone Order',
               data=df1, kind='count', size=7, aspect=.7)
 sb.plt.title('Conversion on Cart Orders: Where did they come from? \n')
@@ -125,6 +128,8 @@ df['Device Type'].value_counts()
 
 
 
+#   **** VISUALS FOR NO CONVERSION ** 
+
 
 df5 = df[(df['Phone Order'] == 0) & (df['Cart Order'] == 0)]
 
@@ -150,7 +155,8 @@ c = sb.factorplot(x='Distinct Page Views', hue='Device Type',
 sb.plt.title('No Conversion: How many pages were clicked? \n')
 
 
-### Differences
+### df5 is no conversion subset. Wanted to see where they were from, connection speed, etc,
+#   to see if this was a cause for not converting.
 df5['State'].value_counts()
 df5['City'].value_counts()
 df5['Connection Speed'].value_counts()
@@ -158,12 +164,13 @@ df5['Browser Name'].value_counts()
 df5['Isp Name'].value_counts()
 df5['traffic Source'].value_counts()
 
+# .. same but checking data for conversion
 df2['State'].value_counts()
 df2['City'].value_counts()
 df2['Connection Speed'].value_counts()
 df2['Browser Name'].value_counts()
 
-
+# .. same but checking data for conversion
 df1['State'].value_counts()
 df1['City'].value_counts()
 df1['Connection Speed'].value_counts()
