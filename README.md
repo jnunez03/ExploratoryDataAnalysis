@@ -22,5 +22,6 @@
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
 ## TOTAL: 358 Phone Orders. 191 were through mobile, 144 through desktop!
+## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (total of 20k+ entries)
 
 ### Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
