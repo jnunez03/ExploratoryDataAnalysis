@@ -25,6 +25,14 @@
 - Mobile has the highest 1-2 page visits, with desktop increasing in that order.
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
+#### Other:
+- ISPs. Most had: Time Warner, Verizon, Comcast.
+- Came from Cali, Texas, Florida.
+- Most connection speeds were: Cable, mobile.
+- Direct Entry      166
+- Natural Search    126
+- Paid Search        65
+- Other               1
 ## TOTAL: 358 Phone Orders. 191 came through mobile, 144 started at desktop!
 ## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data)
 __________________________________________________________________________________________________________________________
@@ -37,6 +45,14 @@ ________________________________________________________________________________
 - 2 page views leads again, but 3 distinct site views increased from when someone made a phone order.
 ![distinct3](https://user-images.githubusercontent.com/23710841/41640780-ef7d631e-7430-11e8-91b5-38e7278dad57.png)
 - Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
+#### Other:
+- ISPs. Most had: Time Warner, Tmobile, and At&t.
+- Came from Cali, Texas, Florida.
+- Most connection speeds were: Cable, mobile.
+- Direct Entry      113
+- Natural Search    103
+- Paid Search        87
+- Other               2
 ## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
 ## 1.51% Conversion rate give time frame.. (based on subset of data)
 ___________________________________________________________________________________________________________________________
