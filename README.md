@@ -66,3 +66,10 @@ ________________________________________________________________________________
 - 11,972 came from direct entry. 
 
 
+## Next?
+- Definitely working to improve mobile, because we get a better turnout.
+- Also, figure out why desktop is not performing better. Is it the ads? The experience? Maybe someone just does not want to purchase the product? Are the incentives good enough for them to make a purchase? Is the marketing being tailored for different people.
+
+# Caveat
+- Sometimes data doesn't answer all of our questions. Sometimes low turnout is just the way things are. Analyzing data does not automatically mean we will increase turnout, it means we can now leverage the information to improve what needs to be improved with the goal to increase conversion. 
+- Sometimes it's the small things that make a difference. How much can we personalize? 
