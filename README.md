@@ -79,6 +79,7 @@ ________________________________________________________________________________
 - Well that's not easy to answer.
 - Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
 - A large amount has their Internet Service Provider as "Frontier Communications of America Inc" and "Time Warner". This could be why many people did not convert.
+- As shown earlier, a lot of people who had Time Warner atually converted, and large portion who didn't. 
 - 11,972 came from direct entry. 
 
 
