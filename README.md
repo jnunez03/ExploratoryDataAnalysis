@@ -20,7 +20,7 @@
 - Totals: 191 Mobile, 144 Desktop (significant when compared with difference when people make cart order. We will see later.)
 - Tablets? Yeah... at least 23 people made a phone order (we will take anything!).
 ![phoneconvdistinct2](https://user-images.githubusercontent.com/23710841/41639330-51f0023c-742b-11e8-9eaf-08b720b7696f.png)
-- Totals on how many different pages were visited.. lets break this down even more. 2 page visits leads the bounty! (No, it's not because Derek Jeter wore that number, but everyone has their conspiracies). 
+- Totals on how many different pages were visited.. lets break this down even more. 2 page visits leads the bounty! (No, it's not because Derek Jeter wore that number.)
 ![distinctfromwhere3](https://user-images.githubusercontent.com/23710841/41639329-51dd7a40-742b-11e8-80a2-49562b1554e5.png)
 - Mobile has the highest 1-2 page visits, with desktop increasing in that order.
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
@@ -77,8 +77,8 @@ ________________________________________________________________________________
 
 ### Why?
 - Well that's not easy to answer.
-- Scraping the data, many people who did not convert were using Chrome, were from California-Florida-Texas, visited only 1 page of the website.
-- A large amount has their Internet Service Provider as "frontier communications of america inc" and "time warner". 
+- Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
+- A large amount has their Internet Service Provider as "Frontier Communications of America Inc" and "Time Warner". This could be why many people did not convert.
 - 11,972 came from direct entry. 
 
 
