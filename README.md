@@ -55,9 +55,9 @@ ________________________________________________________________________________
 - Less people convert when there is direct entry.
 - Direct entry did well for phone and cart orders as well as phone orders who were using their phones.
 ![distinct1](https://user-images.githubusercontent.com/23710841/41641806-7bfe1f38-7434-11e8-8d21-bf77747a5c15.png)
-- No more than 1 page is visited, generally. 
 ![distinct2](https://user-images.githubusercontent.com/23710841/41641807-7c16051c-7434-11e8-9988-bdd3ffd3b4a8.png)
 - Same thing occurs despite hardware. Many people stopped at the first page! 
+- No more than 1 page is visited, generally. 
 
 ### Why?
 - Well that's not easy to answer.
