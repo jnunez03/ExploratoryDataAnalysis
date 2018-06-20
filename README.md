@@ -6,6 +6,10 @@
 3) Characteristics associated with non-conversions *AND* are they similiar to those who converted?
 
 # Let's get started! This time with some useful graphs!
+### Quick Notes
+- Desktop: 14271 rows in our data. 14,271 people using desktop computers.
+- Mobile:  4827 people
+- Tablet:  1158 people
 ## First up: People who ended up making a Phone Order!
 - They could have came from either mobile, desktop, or tablet, but the important thing is they *ended up* purchasing through mobile!
 ### Breakdown
@@ -36,5 +40,13 @@ ________________________________________________________________________________
 ## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
 ## 1.51% Conversion rate give time frame..
 ___________________________________________________________________________________________________________________________
-## Let's look at people who did not convert .... 
+# Let's look at people who did not convert .... 
+### Quick Notes on non conversion
+- Desktop: 13983 people who did not convert
+- Mobile:  4499  people  ''
+- Tablet:  1111  people  ''
+#### If we subtract from our original values we see in our Grand Total Conversion:
+- Desktop: Total of 2% total conversion
+- Mobile: Total of 6.8% total conversion
+- Tablet: Total of 4.1% total convertsion
 
