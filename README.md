@@ -90,3 +90,5 @@ ________________________________________________________________________________
 # Caveat
 - Sometimes data doesn't answer all of our questions. Sometimes low turnout is just the way things are. Analyzing data does not automatically mean we will increase turnout, it means we can now leverage the information to improve what needs to be improved with the goal to increase conversion. 
 - Sometimes it's the small things that make a difference. How much can we personalize? 
+
+##### Also Tableau could have been used to plot States/Cities visuals. 
