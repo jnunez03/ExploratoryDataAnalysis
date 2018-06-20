@@ -26,7 +26,7 @@
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
 ## TOTAL: 358 Phone Orders. 191 came through mobile, 144 started at desktop!
-## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (total of 20k+ entries)
+## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data)
 __________________________________________________________________________________________________________________________
 ## Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
 ![where1](https://user-images.githubusercontent.com/23710841/41640781-ef8a32f6-7430-11e8-8ece-6854d2d9b042.png)
@@ -38,15 +38,31 @@ ________________________________________________________________________________
 ![distinct3](https://user-images.githubusercontent.com/23710841/41640780-ef7d631e-7430-11e8-91b5-38e7278dad57.png)
 - Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
 ## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
-## 1.51% Conversion rate give time frame..
+## 1.51% Conversion rate give time frame.. (based on subset of data)
 ___________________________________________________________________________________________________________________________
 # Let's look at people who did not convert .... 
 ### Quick Notes on non conversion
 - Desktop: 13983 people who did not convert
 - Mobile:  4499  people  ''
 - Tablet:  1111  people  ''
-#### If we subtract from our original values we see in our Grand Total Conversion:
+#### If we subtract from our original values we see in our Grand Total Conversion (based on overall data):
 - Desktop: Total of 2% total conversion
 - Mobile: Total of 6.8% total conversion
 - Tablet: Total of 4.1% total convertsion
+#### Breakdown
+![where1](https://user-images.githubusercontent.com/23710841/41641808-7c24b026-7434-11e8-9172-1571c74a7b00.png)
+- Alot of non-conversion obviously came from people on desktop (there were more in the dataset), but we see that the trend between Direct entry, paid search, natural search all decrease the same way for mobile users. This could be significant.
+- Less people convert when there is direct entry.
+- In contrast, direct entry did well for phone and cart orders as well as phone orders who were using their phones.
+![distinct1](https://user-images.githubusercontent.com/23710841/41641806-7bfe1f38-7434-11e8-8d21-bf77747a5c15.png)
+- No more than 1 page is visited, generally. 
+![distinct2](https://user-images.githubusercontent.com/23710841/41641807-7c16051c-7434-11e8-9988-bdd3ffd3b4a8.png)
+- Same thing occurs despite hardware. Many people stopped at the first page! 
+
+### Why?
+- Well that's not easy to answer.
+- Scraping the data, many people who did not convert were using Chrome, were from California-Florida-Texas, visited only 1 page of the website.
+- A large amount has their Internet Service Provider as "frontier communications of america inc" and "time warner". 
+- 11,972 came from direct entry. 
+
 
