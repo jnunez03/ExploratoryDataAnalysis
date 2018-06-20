@@ -21,7 +21,20 @@
 - Mobile has the highest 1-2 page visits, with desktop increasing in that order.
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
-## TOTAL: 358 Phone Orders. 191 were through mobile, 144 through desktop!
+## TOTAL: 358 Phone Orders. 191 came through mobile, 144 started at desktop!
 ## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (total of 20k+ entries)
 
 ### Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
+![where1](https://user-images.githubusercontent.com/23710841/41640781-ef8a32f6-7430-11e8-8ece-6854d2d9b042.png)
+- Here is where we less less of a disparity between mobile/desktop despite this being a Cart Order Conversion!
+- Many people were on the phone and decided to diverge to desktop to make a purchase.
+- Paid Search did fairly better this time around. 
+![distinct2](https://user-images.githubusercontent.com/23710841/41640778-ef71471e-7430-11e8-9627-7cee6581f6b3.png)
+- 2 page views leads again, but 3 distinct site views increased from when someone made a phone order.
+![distinct3](https://user-images.githubusercontent.com/23710841/41640780-ef7d631e-7430-11e8-91b5-38e7278dad57.png)
+- Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
+## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
+## 1.51% Conversion rate give time frame..
+
+### Let's look at people who did not convert .... 
+
