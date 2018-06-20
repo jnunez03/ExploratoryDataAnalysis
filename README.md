@@ -23,8 +23,8 @@
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
 ## TOTAL: 358 Phone Orders. 191 came through mobile, 144 started at desktop!
 ## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (total of 20k+ entries)
-
-### Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
+__________________________________________________________________________________________________________________________
+## Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
 ![where1](https://user-images.githubusercontent.com/23710841/41640781-ef8a32f6-7430-11e8-8ece-6854d2d9b042.png)
 - Here is where we less less of a disparity between mobile/desktop despite this being a Cart Order Conversion!
 - Many people were on the phone and decided to diverge to desktop to make a purchase.
@@ -35,6 +35,6 @@
 - Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
 ## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
 ## 1.51% Conversion rate give time frame..
-
-### Let's look at people who did not convert .... 
+___________________________________________________________________________________________________________________________
+## Let's look at people who did not convert .... 
 
