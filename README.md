@@ -79,8 +79,8 @@ ________________________________________________________________________________
 - Same thing occurs despite hardware. Many people stopped at the first page! 
 - No more than 1 page is visited, generally. 
 ## We're seeing a lot of Time Warner conversion. Let's figure out more.
-- 1536 people in this data set displayed Timer Warner as their ISP.
-- 144 of them converted! 144 of them ended up making a purchase!
+- 1,521 people in this data set displayed Timer Warner as their ISP.
+- 129 of them converted! 129 of them ended up making a purchase.
 - Almost 10% of them converted in a small time frame, which is good!
 ##### Let's break it down even further and compare conversion and non-conversion of Time Warner customers
 ## Time Warner Customers who made a phone order
@@ -92,15 +92,16 @@ ________________________________________________________________________________
 ![distinct2](https://user-images.githubusercontent.com/23710841/41744910-3fb8b232-7573-11e8-8415-38be6ab93d17.png)
 - We have more people who converted to mobile phone orders who started from desktop. They tend to visit more pages.
 ### Other:
-- Desktop:    41
-- Mobile:     28
-- Tablet:     7
+- Desktop:    37
+- Mobile:     24
+- Tablet:     6
 - California/Florida/Texas lead the way.
 - Most frequent landing page: "phonecompanyx.com"
-- Direct Entry      36
-- Natural Search    22
-- Paid Search       17
-- Other              1
+##### Totals
+- Direct Entry:    32
+- Natural Search:  19
+- Paid Search:     15
+- Other:           1
 
 ## Time Warner Customers who made a cart order
 ![where1](https://user-images.githubusercontent.com/23710841/41745453-fcbbe696-7574-11e8-8498-a43f04a2a99f.png)
