@@ -7,9 +7,10 @@
 
 # Let's get started! This time with some useful graphs!
 ### Quick Notes
-- Desktop: 14271 rows in our data. 14,271 people using desktop computers.
-- Mobile:  4827 people
-- Tablet:  1158 people
+- Desktop: 14,238 people using desktop computers.
+- Mobile:  4794 people
+- Tablet:  1157 people
+- Not all Session ID's were unique! This may cause double-counting. We have to drop duplicate values!! There were only 67 duplicate session ID's. When I looked further into the duplicated rows, the rest of the data was the same, so data quality remains the same, desipite dropping these values. 
 ## First up: People who ended up making a Phone Order!
 - They could have came from either mobile, desktop, or tablet, but the important thing is they *ended up* purchasing through mobile!
 ### Breakdown
@@ -93,14 +94,17 @@ ________________________________________________________________________________
 - Mobile:     28
 - Tablet:     7
 - California/Florida/Texas lead the way.
-- Most frequent landing page: https://phonecompanyx.com/
+- Most frequent landing page: "phonecompanyx.com"
 - Direct Entry      36
 - Natural Search    22
 - Paid Search       17
 - Other              1
 
 ## Time Warner Customers who made a cart order
-
+![where1](https://user-images.githubusercontent.com/23710841/41745453-fcbbe696-7574-11e8-8498-a43f04a2a99f.png)
+- Paid Search does really well for time warner customers who are on their desktop. It does better for people who started out on their phones.
+![distinct1](https://user-images.githubusercontent.com/23710841/41745451-fca2f898-7574-11e8-94ca-58538b8bf972.png)
+![distinct2](https://user-images.githubusercontent.com/23710841/41745452-fcaf4ea4-7574-11e8-83f0-8ce045a62853.png)
 
 ### Why?
 - Well that's not easy to answer.
