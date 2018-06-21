@@ -155,7 +155,8 @@ ________________________________________________________________________________
 #### Other:
 - States that dominate: California, Florida, Texas, (Ohio & New York: Very low turn-outs for these states).
 - Most frequent landing page: "phonecompanyx.com"
-### 9 people each landed on these pages:  (Don't know how to anonymize the actual tabs, but left for clarity sake)
+### 9 people each landed on these pages: 
+###### (Don't know how to anonymize the actual tabs, but left for clarity sake)
 - "phonecompanyx.com/fios"
 - "phonecompanyx.com/shop/bundles/fios-ctf/fios-ctf"
 - ".../fiosbyphonecompanyx?utm_source=mailer..."
