@@ -64,7 +64,7 @@ ________________________________________________________________________________
 #### If we subtract from our original values we see in our Grand Total Conversion (based on overall data):
 - Desktop: Total of 2% total conversion
 - Mobile: Total of 6.8% total conversion
-- Tablet: Total of 4.1% total convertsion
+- Tablet: Total of 4.1% total conversion
 #### Breakdown
 ![where1](https://user-images.githubusercontent.com/23710841/41641808-7c24b026-7434-11e8-9172-1571c74a7b00.png)
 - Alot of non-conversion obviously came from people on desktop (there were more in the dataset), but we see that the trend between Direct entry, paid search, natural search all decrease the same way for mobile users. This could be significant.
