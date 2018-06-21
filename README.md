@@ -18,8 +18,8 @@
 - This graph shows us a breakdown of people who made a Phone Order. What hardware they were using as well as how they got to the site.
 - This also shows us that people who were already on their phones, stayed on their phones to make an order. People did divert to desktop, but mobile dominates.
 - Paid search seems to do better on mobile!
-- Totals: 191 Mobile, 144 Desktop (significant when compared with difference when people make cart order. We will see later.)
-- Tablets? Yeah... at least 23 people made a phone order (we will take anything!).
+- Totals: 172 Mobile, 131 Desktop (significant when compared with difference when people make cart order. We will see later.)
+- Tablets? Yeah... at least 22 people made a phone order (we will take anything!).
 ![phoneconvdistinct2](https://user-images.githubusercontent.com/23710841/41639330-51f0023c-742b-11e8-9eaf-08b720b7696f.png)
 - Totals on how many different pages were visited.. lets break this down even more. 2 page visits leads the bounty!
 ![distinctfromwhere3](https://user-images.githubusercontent.com/23710841/41639329-51dd7a40-742b-11e8-80a2-49562b1554e5.png)
@@ -27,15 +27,16 @@
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
 #### Other:
-- ISPs. Most had: Time Warner, Verizon, Comcast.
+- ISPs. Most had: Time Warner, Verizon, Comcast, and At&t (in that order). 
 - Came from Cali, Texas, Florida.
 - Most connection speeds were: Cable, mobile.
-- Direct Entry      166
-- Natural Search    126
-- Paid Search        65
+- Direct Entry      147
+- Natural Search    117
+- Paid Search        60
 - Other               1
-## TOTAL: 358 Phone Orders. 191 came through mobile, 144 started at desktop!
-## 1.77% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data).
+## TOTAL: 325 Phone Orders. 172 came through mobile, 131 started at desktop, 22 started from tablet.
+## 1.61% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data)
+##### Conversion calculated by dividing 325 (our subset) by the whole data set.
 __________________________________________________________________________________________________________________________
 ## Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
 ![where1](https://user-images.githubusercontent.com/23710841/41640781-ef8a32f6-7430-11e8-8ece-6854d2d9b042.png)
@@ -50,12 +51,13 @@ ________________________________________________________________________________
 - ISPs. Most had: Time Warner, Tmobile, and At&t.
 - Came from Cali, Texas, Florida.
 - Most connection speeds were: Cable, mobile.
-- Direct Entry      113
-- Natural Search    103
-- Paid Search        87
-- Other               2
-## TOTAL: 305 Cart Orders. 144 Desktop, 137 started at mobile!
-## 1.51% Conversion rate give time frame (based on subset of data).
+- Direct Entry      101
+- Natural Search    92
+- Paid Search       76
+- Other             2
+## TOTAL: 271 Cart Orders. 124 Desktop, 123 started at mobile, 24 were on tablets.
+## 1.34% Conversion rate give time frame (based on subset of data).
+##### That conversion is calculated by dividing 271 (our subset) by the whole data set.
 ___________________________________________________________________________________________________________________________
 # Let's look at people who did not convert .... 
 ### Quick Notes on non conversion
@@ -63,9 +65,9 @@ ________________________________________________________________________________
 - Mobile:  4499  people  ''
 - Tablet:  1111  people  ''
 #### If we subtract from our original values we see in our Grand Total Conversion (based on overall data):
-- Desktop: Total of 2% total conversion
-- Mobile: Total of 6.8% total conversion
-- Tablet: Total of 4.1% total conversion
+- Desktop: Total of 1.8% desktop conversions.
+- Mobile: Total of 6.2% phone conversions.
+- Tablet: Total of 4% tablet conversions.
 #### Breakdown
 ![where1](https://user-images.githubusercontent.com/23710841/41641808-7c24b026-7434-11e8-9172-1571c74a7b00.png)
 - Alot of non-conversion obviously came from people on desktop (there were more in the dataset), but we see that the trend between Direct entry, paid search, natural search all decrease the same way for mobile users. This could be significant.
