@@ -45,7 +45,7 @@ ________________________________________________________________________________
 - Many people were on the phone and decided to diverge to desktop to make a purchase.
 - Paid Search did fairly better this time around. 
 ![distinct1](https://user-images.githubusercontent.com/23710841/41747750-1f0db37a-757d-11e8-8276-2eedefacd1b9.png)
-- 2 page views leads again, but 3 distinct site views increased from when someone made a phone order.
+- 2 page views leads again, but 3 distinct site views is higher on cart orders than phone orders.
 ![distinct2](https://user-images.githubusercontent.com/23710841/41747751-1f2dd628-757d-11e8-9794-6eb8cada2c1e.png)
 - Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
 #### Other:
