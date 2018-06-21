@@ -79,27 +79,26 @@ ________________________________________________________________________________
 ![distinct2](https://user-images.githubusercontent.com/23710841/41747989-f0ad4d1e-757d-11e8-8689-49bcbb855dde.png)
 - Same thing occurs despite hardware. Many people stopped at the first page! 
 - No more than 1 page is visited, generally. 
-#### Other:
-Most Significant States Not Converting:
-- ca    3704
-- fl    2320
-- tx    2268
-- ct    1037
-- in     908
-- il     879
-- ny     848
-- pa     843
-- wa     819
-- oh     737
-- az     706
-Most significant ISPs (non-conversion):
-- frontier communications of america inc:                   8064
-- time warner cable internet llc:                           1392
-- comcast cable communications inc:                         1278
-- verizon wireless:                                         831
-- mci communications services inc. dba verizon business:    730
-- att internet services:                                    650
-- qwest communications company llc:                         647
+#### Most Significant States Not Converting:
+- CA:    3704
+- FL:    2320
+- TX:    2268
+- CT:    1037
+- IN:    908
+- IL:    879
+- NY:    848
+- PA:    843
+- WA:    819
+- OH:    737
+- AZ:    706
+#### Most significant ISPs (non-conversion):
+- Frontier Communications of America Inc:                   8064
+- Time Warner Cable Internet llc:                           1392
+- Comcast Cable Communications Inc:                         1278
+- Verizon Wireless:                                         831
+- Mci Communications Services Inc. dba verizon business:    730
+- Att Internet Services:                                    650
+- Qwest Communications Company llc:                         647
 ##### Totals
 Direct Entry:    11972
 Paid Search:     5112
