@@ -105,9 +105,37 @@ ________________________________________________________________________________
 
 ## Time Warner Customers who made a cart order
 ![where1](https://user-images.githubusercontent.com/23710841/41748378-a2085198-757f-11e8-9c74-1c557b410519.png)
-- Paid Search does really well for time warner customers who are on their desktop. It does better for people who started out on their phones.
+- Paid Search does really well for time warner customers in general.
 ![distinct1](https://user-images.githubusercontent.com/23710841/41748376-a1ec4bb0-757f-11e8-85b9-0eed0499c454.png)
+- Time warner customers are generally more curious. They visit more pages.
 ![distinct2](https://user-images.githubusercontent.com/23710841/41748377-a1fb5fe2-757f-11e8-9de7-e8fff01d0ce9.png)
+- They usually stay on their computer to make an order.
+### Other:
+- States they come from: California, Texas, Florida.
+- Most frequent landing page: "phonecompanyx.com"
+##### Totals
+- Desktop:    44
+- Mobile:     10
+- Tablet:     8
+- Paid Search:     25
+- Direct Entry:    22
+- Natural Search:  15
+## Time Warner Customers who did not convert
+- States that dominate: California, Florida, Texas, (Ohio, New York: Very low turn-outs for these states)
+- Most frequent landing page: "phonecompanyx.com"
+### 9 people each landed on these pages: 
+- "phonecompanyx.com/fios"
+- "phonecompanyx.com/shop/bundles/fios-ctf/fios-ctf"
+- ".../fiosbyphonecompanyx?utm_source=mailer..."
+##### Totals
+- Desktop:    949
+- Mobile:     346
+- Tablet:     97
+- Direct Entry:     680
+- Paid Search:       522
+- Natural Search:    184
+- Other               6
+
 ### Why?
 - Well that's not easy to answer.
 - Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
