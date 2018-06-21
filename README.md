@@ -30,10 +30,11 @@
 - ISPs. Most had: Time Warner, Verizon, Comcast, and At&t (in that order). 
 - Came from Cali, Texas, Florida.
 - Most connection speeds were: Cable, mobile.
-- Direct Entry      147
-- Natural Search    117
-- Paid Search        60
-- Other               1
+##### Totals
+- Direct Entry:   147
+- Natural Search: 117
+- Paid Search:    60
+- Other:          1
 ## TOTAL: 325 Phone Orders. 172 came through mobile, 131 started at desktop, 22 started from tablet.
 ## 1.61% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data)
 ##### Conversion calculated by dividing 325 (our subset) by the whole data set.
