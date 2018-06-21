@@ -92,12 +92,12 @@ ________________________________________________________________________________
 ![distinct2](https://user-images.githubusercontent.com/23710841/41748258-14386cea-757f-11e8-8193-ce7514991e8d.png)
 - We have more people who converted to mobile phone orders who started from desktop. They tend to visit more pages.
 ### Other:
-- Desktop:    37
-- Mobile:     24
-- Tablet:     6
 - California/Florida/Texas lead the way.
 - Most frequent landing page: "phonecompanyx.com"
 ##### Totals
+- Desktop:    37
+- Mobile:     24
+- Tablet:     6
 - Direct Entry:    32
 - Natural Search:  19
 - Paid Search:     15
