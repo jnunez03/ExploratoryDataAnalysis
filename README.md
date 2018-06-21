@@ -84,12 +84,12 @@ ________________________________________________________________________________
 - Almost 10% of them converted in a small time frame, which is good!
 ##### Let's break it down even further and compare conversion and non-conversion of Time Warner customers
 ## Time Warner Customers who made a phone order
-![where1](https://user-images.githubusercontent.com/23710841/41744911-3fca6162-7573-11e8-987e-df7606d119e9.png)
+![where1](https://user-images.githubusercontent.com/23710841/41748259-1445d90c-757f-11e8-802c-badba19a8946.png)
 - Most of them started on Desktop! Those who converted from desktop made more natural searches.
 - More of those who started on mobile came from direct entry.
-![distinct1](https://user-images.githubusercontent.com/23710841/41744908-3f9e1396-7573-11e8-8768-d793f4459e38.png)
+![distinct1](https://user-images.githubusercontent.com/23710841/41748257-142cff7c-757f-11e8-8c4f-aa2bc2d4c0bc.png)
 - Again, we see the same trend of more distinct web pages being visited before a purchase is made.
-![distinct2](https://user-images.githubusercontent.com/23710841/41744910-3fb8b232-7573-11e8-8415-38be6ab93d17.png)
+![distinct2](https://user-images.githubusercontent.com/23710841/41748258-14386cea-757f-11e8-8193-ce7514991e8d.png)
 - We have more people who converted to mobile phone orders who started from desktop. They tend to visit more pages.
 ### Other:
 - Desktop:    37
