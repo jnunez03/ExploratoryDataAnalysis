@@ -60,7 +60,7 @@ ________________________________________________________________________________
 ## 1.34% Conversion rate give time frame (based on subset of data).
 ##### That conversion is calculated by dividing 271 (our subset) by the whole data set.
 ___________________________________________________________________________________________________________________________
-# Let's look at people who did not convert .... 
+# Let's look at people who did not convert 
 ### Quick Notes on non conversion
 - Desktop: 13983 people who did not convert
 - Mobile:  4499  people  ''
@@ -70,15 +70,14 @@ ________________________________________________________________________________
 - Mobile: Total of 6.2% phone conversions.
 - Tablet: Total of 4% tablet conversions.
 #### Breakdown
-![where1](https://user-images.githubusercontent.com/23710841/41641808-7c24b026-7434-11e8-9172-1571c74a7b00.png)
+![where1](https://user-images.githubusercontent.com/23710841/41747990-f0b8d242-757d-11e8-9bcc-37510911213e.png)
 - Alot of non-conversion obviously came from people on desktop (there were more in the dataset), but we see that the trend between Direct entry, paid search, natural search all decrease the same way for mobile users. This could be significant.
 - Less people convert when there is direct entry.
 - As seen earlier, direct entry did well for phone and cart orders as well as phone orders who were using their phones.
-![distinct1](https://user-images.githubusercontent.com/23710841/41641806-7bfe1f38-7434-11e8-8d21-bf77747a5c15.png)
-![distinct2](https://user-images.githubusercontent.com/23710841/41641807-7c16051c-7434-11e8-9988-bdd3ffd3b4a8.png)
+![distinct1](https://user-images.githubusercontent.com/23710841/41747988-f0a0303e-757d-11e8-9614-8f74da28c079.png)
+![distinct2](https://user-images.githubusercontent.com/23710841/41747989-f0ad4d1e-757d-11e8-8689-49bcbb855dde.png)
 - Same thing occurs despite hardware. Many people stopped at the first page! 
 - No more than 1 page is visited, generally. 
-
 ## We're seeing a lot of Time Warner conversion. Let's figure out more.
 - 1536 people in this data set displayed Timer Warner as their ISP.
 - 144 of them converted! 144 of them ended up making a purchase!
