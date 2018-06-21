@@ -104,11 +104,10 @@ ________________________________________________________________________________
 - Other:           1
 
 ## Time Warner Customers who made a cart order
-![where1](https://user-images.githubusercontent.com/23710841/41745453-fcbbe696-7574-11e8-8498-a43f04a2a99f.png)
+![where1](https://user-images.githubusercontent.com/23710841/41748378-a2085198-757f-11e8-9c74-1c557b410519.png)
 - Paid Search does really well for time warner customers who are on their desktop. It does better for people who started out on their phones.
-![distinct1](https://user-images.githubusercontent.com/23710841/41745451-fca2f898-7574-11e8-94ca-58538b8bf972.png)
-![distinct2](https://user-images.githubusercontent.com/23710841/41745452-fcaf4ea4-7574-11e8-83f0-8ce045a62853.png)
-
+![distinct1](https://user-images.githubusercontent.com/23710841/41748376-a1ec4bb0-757f-11e8-85b9-0eed0499c454.png)
+![distinct2](https://user-images.githubusercontent.com/23710841/41748377-a1fb5fe2-757f-11e8-9de7-e8fff01d0ce9.png)
 ### Why?
 - Well that's not easy to answer.
 - Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
