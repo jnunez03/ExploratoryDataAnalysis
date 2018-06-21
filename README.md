@@ -75,6 +75,15 @@ ________________________________________________________________________________
 - Same thing occurs despite hardware. Many people stopped at the first page! 
 - No more than 1 page is visited, generally. 
 
+## We're seeing a lot of Time Warner conversion. Let's figure out more.
+- 1536 people in this data set displayed Timer Warner as their ISP.
+- 144 of them converted! 144 of them ended up making a purchase!
+- Almost 10% of them converted in a small time frame, which is good!
+##### Let's break it down even further and compare conversion and non-conversion of Time Warner customers
+## Time Warner Customers who made a phone order
+
+
+
 ### Why?
 - Well that's not easy to answer.
 - Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
