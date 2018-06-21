@@ -63,8 +63,8 @@ ________________________________________________________________________________
 # Let's look at people who did not convert 
 ### Quick Notes on non conversion
 - Desktop: 13983 people who did not convert
-- Mobile:  4499  people  ''
-- Tablet:  1111  people  ''
+- Mobile:  4499  people    ''
+- Tablet:  1111  people    ''
 #### If we subtract from our original values we see in our Grand Total Conversion (based on overall data):
 - Desktop: Total of 1.8% desktop conversions.
 - Mobile: Total of 6.2% phone conversions.
@@ -78,7 +78,33 @@ ________________________________________________________________________________
 ![distinct2](https://user-images.githubusercontent.com/23710841/41747989-f0ad4d1e-757d-11e8-8689-49bcbb855dde.png)
 - Same thing occurs despite hardware. Many people stopped at the first page! 
 - No more than 1 page is visited, generally. 
-## We're seeing a lot of Time Warner conversion. Let's figure out more.
+#### Other:
+Most Significant States Not Converting:
+- ca    3704
+- fl    2320
+- tx    2268
+- ct    1037
+- in     908
+- il     879
+- ny     848
+- pa     843
+- wa     819
+- oh     737
+- az     706
+Most significant ISPs (non-conversion):
+- frontier communications of america inc:                   8064
+- time warner cable internet llc:                           1392
+- comcast cable communications inc:                         1278
+- verizon wireless:                                         831
+- mci communications services inc. dba verizon business:    730
+- att internet services:                                    650
+- qwest communications company llc:                         647
+##### Totals
+Direct Entry:    11972
+Paid Search:     5112
+Natural Search:  2383
+Other:           126
+# We're seeing a lot of Time Warner conversion. (Based on people who made Phone/Cart Orders)
 - 1,521 people in this data set displayed Timer Warner as their ISP.
 - 129 of them converted! 129 of them ended up making a purchase.
 - Almost 10% of them converted in a small time frame, which is good!
@@ -91,7 +117,6 @@ ________________________________________________________________________________
 - Again, we see the same trend of more distinct web pages being visited before a purchase is made.
 ![distinct2](https://user-images.githubusercontent.com/23710841/41748258-14386cea-757f-11e8-8193-ce7514991e8d.png)
 - We have more people who converted to mobile phone orders who started from desktop. They tend to visit more pages.
-### Other:
 - California/Florida/Texas lead the way.
 - Most frequent landing page: "phonecompanyx.com"
 ##### Totals
@@ -102,7 +127,6 @@ ________________________________________________________________________________
 - Natural Search:  19
 - Paid Search:     15
 - Other:           1
-
 ## Time Warner Customers who made a cart order
 ![where1](https://user-images.githubusercontent.com/23710841/41748378-a2085198-757f-11e8-9c74-1c557b410519.png)
 - Paid Search does really well for time warner customers in general.
@@ -121,9 +145,17 @@ ________________________________________________________________________________
 - Direct Entry:    22
 - Natural Search:  15
 ## Time Warner Customers who did not convert
-- States that dominate: California, Florida, Texas, (Ohio, New York: Very low turn-outs for these states)
+![where1](https://user-images.githubusercontent.com/23710841/41748848-93f42274-7581-11e8-972f-67a400a6eca4.png)
+- Surprisingly, many came from paid search. So, they were probably looking to purchase a deal or browsing in this topic.
+- Although, direct entry leads the way.
+![distinct1](https://user-images.githubusercontent.com/23710841/41748846-93d52568-7581-11e8-9a6c-1b3845e89c7c.png)
+- Not surprising either, they only visit 1 page.
+![distinct2](https://user-images.githubusercontent.com/23710841/41748847-93e7efae-7581-11e8-9161-3d3862d26411.png)
+- This shows that a good amount click a second page, however, they do not convert. 
+#### Other:
+- States that dominate: California, Florida, Texas, (Ohio & New York: Very low turn-outs for these states).
 - Most frequent landing page: "phonecompanyx.com"
-### 9 people each landed on these pages: 
+### 9 people each landed on these pages:  (Don't know how to anonymize the actual tabs, but left for clarity sake)
 - "phonecompanyx.com/fios"
 - "phonecompanyx.com/shop/bundles/fios-ctf/fios-ctf"
 - ".../fiosbyphonecompanyx?utm_source=mailer..."
@@ -132,25 +164,23 @@ ________________________________________________________________________________
 - Mobile:     346
 - Tablet:     97
 - Direct Entry:     680
-- Paid Search:       522
-- Natural Search:    184
-- Other               6
-
-### Why?
-- Well that's not easy to answer.
+- Paid Search:      522
+- Natural Search:   184
+- Other:            6
+## Thoughts
 - Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
 - A large amount has their Internet Service Provider as "Frontier Communications of America Inc" and "Time Warner". This could be why many people did not convert. Given that this could have been geared towards ISP provider, since many already had a different provider, they opted to not purchase which is why they stopped at the first page. 
 - As shown earlier, a lot of people who had Time Warner atually converted, and a large portion who didn't. Maybe there is something about Time Warner that made people convert. Since there were many of them, we can market towards Time Warner and work on those kinds of people to increase conversion. Take advantage of the #'s.
-- 11,972 came from direct entry. 
+- 11,972 came from direct entry. 5,122 came from paid search.
 
 
 ## Next?
 - Definitely working to improve mobile, because we get a better turnout.
 - Also, figure out why desktop is not performing better. Is it the ads? The experience? Maybe someone just does not want to purchase the product? Are the incentives good enough for them to make a purchase? Is the marketing being tailored for different people.
-- People who were from Time Warner definitely made a purchase. Dig deeper into figuring out why seems advantageous for conversion.
+- A lot of people who were from Time Warner made a purchase. Dig deeper into figuring out why seems advantageous for conversion.
 
 # Caveat
-- Sometimes data doesn't answer all of our questions. Sometimes low turnout is just the way things are. Analyzing data does not automatically mean we will increase turnout, it means we can now leverage the information to improve what needs to be improved with the goal to increase conversion. 
+- Sometimes data doesn't answer all of our questions. Sometimes low turnout is just the way things are. Analyzing data does not automatically mean we will increase turnout, it means we can now leverage the information to improve with the goal to increase conversion. 
 - Sometimes it's the small things that make a difference. How much can we personalize? 
 
 ##### Also Tableau could have been used to plot States/Cities visuals. 
