@@ -22,6 +22,7 @@
 - Tablets? Yeah... at least 22 people made a phone order (we will take anything!).
 ![distinct1](https://user-images.githubusercontent.com/23710841/41747571-6a6588ee-757c-11e8-838a-f8908225cc2b.png)
 - Totals on how many different pages were visited.. lets break this down even more. 2 page visits leads the bounty!
+- Many people only needed to see 1 page.
 ![distinct2](https://user-images.githubusercontent.com/23710841/41747572-6a70aae4-757c-11e8-90f0-a2cec06c5157.png)
 - Mobile has the highest 1-2 page visits, with desktop increasing in that order.
 - Desktop leads when 3 or more pages are visited. This leads to conversion on Phone Order (Don't Forget!).
