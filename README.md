@@ -100,10 +100,10 @@ ________________________________________________________________________________
 - Att Internet Services:                                    650
 - Qwest Communications Company llc:                         647
 ##### Totals
-Direct Entry:    11972
-Paid Search:     5112
-Natural Search:  2383
-Other:           126
+- Direct Entry:    11972
+- Paid Search:     5112
+- Natural Search:  2383
+- Other:           126
 # We're seeing a lot of Time Warner conversion. (Based on people who made Phone/Cart Orders)
 - 1,521 people in this data set displayed Timer Warner as their ISP.
 - 129 of them converted! 129 of them ended up making a purchase.
