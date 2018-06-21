@@ -39,14 +39,14 @@
 ## 1.61% total conversion given time frame of roughly 2-3 weeks in this data set (based on subset of data)
 ##### Conversion calculated by dividing 325 (our subset) by the whole data set.
 __________________________________________________________________________________________________________________________
-## Let's quickly look at people who made a Cart Order! (Results: Not So Surprising)
-![where1](https://user-images.githubusercontent.com/23710841/41640781-ef8a32f6-7430-11e8-8ece-6854d2d9b042.png)
+## Let's quickly look at people who made a Cart Order
+![where1](https://user-images.githubusercontent.com/23710841/41747752-1f3a7aae-757d-11e8-8d9e-f394c0b10070.png)
 - Here is where we less less of a disparity between mobile/desktop despite this being a Cart Order Conversion!
 - Many people were on the phone and decided to diverge to desktop to make a purchase.
 - Paid Search did fairly better this time around. 
-![distinct2](https://user-images.githubusercontent.com/23710841/41640778-ef71471e-7430-11e8-9627-7cee6581f6b3.png)
+![distinct1](https://user-images.githubusercontent.com/23710841/41747750-1f0db37a-757d-11e8-8276-2eedefacd1b9.png)
 - 2 page views leads again, but 3 distinct site views increased from when someone made a phone order.
-![distinct3](https://user-images.githubusercontent.com/23710841/41640780-ef7d631e-7430-11e8-91b5-38e7278dad57.png)
+![distinct2](https://user-images.githubusercontent.com/23710841/41747751-1f2dd628-757d-11e8-9794-6eb8cada2c1e.png)
 - Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
 #### Other:
 - ISPs. Most had: Time Warner, Tmobile, and At&t.
