@@ -52,6 +52,7 @@ ________________________________________________________________________________
 - ISPs. Most had: Time Warner, Tmobile, and At&t.
 - Came from Cali, Texas, Florida.
 - Most connection speeds were: Cable, mobile.
+##### Totals
 - Direct Entry      101
 - Natural Search    92
 - Paid Search       76
