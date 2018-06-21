@@ -17,7 +17,7 @@
 ![where1](https://user-images.githubusercontent.com/23710841/41747573-6a7ea9c8-757c-11e8-9942-17bdbbc5c612.png)
 - This graph shows us a breakdown of people who made a Phone Order. What hardware they were using as well as how they got to the site.
 - This also shows us that people who were already on their phones, stayed on their phones to make an order. People did divert to desktop, but mobile dominates.
-- Paid search seems to do better on mobile!
+- Paid search seems to do better on mobile & Direct Entry also dominates on mobile.
 - Totals: 172 Mobile, 131 Desktop (significant when compared with difference when people make cart order. We will see later.)
 - Tablets? Yeah... at least 22 people made a phone order (we will take anything!).
 ![distinct1](https://user-images.githubusercontent.com/23710841/41747571-6a6588ee-757c-11e8-838a-f8908225cc2b.png)
