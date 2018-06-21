@@ -69,7 +69,7 @@ ________________________________________________________________________________
 ![where1](https://user-images.githubusercontent.com/23710841/41641808-7c24b026-7434-11e8-9172-1571c74a7b00.png)
 - Alot of non-conversion obviously came from people on desktop (there were more in the dataset), but we see that the trend between Direct entry, paid search, natural search all decrease the same way for mobile users. This could be significant.
 - Less people convert when there is direct entry.
-- Direct entry did well for phone and cart orders as well as phone orders who were using their phones.
+- As seen earlier, direct entry did well for phone and cart orders as well as phone orders who were using their phones.
 ![distinct1](https://user-images.githubusercontent.com/23710841/41641806-7bfe1f38-7434-11e8-8d21-bf77747a5c15.png)
 ![distinct2](https://user-images.githubusercontent.com/23710841/41641807-7c16051c-7434-11e8-9988-bdd3ffd3b4a8.png)
 - Same thing occurs despite hardware. Many people stopped at the first page! 
@@ -78,14 +78,15 @@ ________________________________________________________________________________
 ### Why?
 - Well that's not easy to answer.
 - Scraping the data, many people who did not convert were using Chrome, were from California/Florida/Texas, and visited only 1 page of the website.
-- A large amount has their Internet Service Provider as "Frontier Communications of America Inc" and "Time Warner". This could be why many people did not convert.
-- As shown earlier, a lot of people who had Time Warner atually converted, and large portion who didn't. 
+- A large amount has their Internet Service Provider as "Frontier Communications of America Inc" and "Time Warner". This could be why many people did not convert. Given that this could have been geared towards ISP provider, since many already had a different provider, they opted to not purchase which is why they stopped at the first page. 
+- As shown earlier, a lot of people who had Time Warner atually converted, and a large portion who didn't. Maybe there is something about Time Warner that made people convert. Since there were many of them, we can market towards Time Warner and work on those kinds of people to increase conversion. Take advantage of the #'s.
 - 11,972 came from direct entry. 
 
 
 ## Next?
 - Definitely working to improve mobile, because we get a better turnout.
 - Also, figure out why desktop is not performing better. Is it the ads? The experience? Maybe someone just does not want to purchase the product? Are the incentives good enough for them to make a purchase? Is the marketing being tailored for different people.
+- People who were from Time Warner definitely made a purchase. Dig deeper into figuring out why seems advantageous for conversion.
 
 # Caveat
 - Sometimes data doesn't answer all of our questions. Sometimes low turnout is just the way things are. Analyzing data does not automatically mean we will increase turnout, it means we can now leverage the information to improve what needs to be improved with the goal to increase conversion. 
