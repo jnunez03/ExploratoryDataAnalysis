@@ -183,4 +183,15 @@ ________________________________________________________________________________
 
 ##### Also Tableau could have been used to plot States/Cities visuals. 
 # Next up? Predictive Analysis
-## Can we predict if someone will convert? What variables are strongest when we think about conversion? Coming up.
+## Can we predict if someone will convert? What variables are strongest when we think about conversion?
+I focused on predicting Phone Orders since we did see better conversion.
+
+### Random Forest 
+
+- What is [Random Forest](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
+- Another [Good Explanation](http://dataaspirant.com/2017/05/22/random-forest-algorithm-machine-learing/)
+
+We've heard of linear regression to make predictions. Well, our data does not have numbers. Other than distinct page views, everything else is what we call categorical. "Device Type", "Broswer Type", "Traffic Source", aren't numbers. We can't use linear regression.
+### Random Forest can make predictions and works well for categorical variables.
+- After running my model, I was able to predict Phone Orders with a 98% accuracy level.
+- We can also check which variables are the most "predictive" when asking who will make a Phone Order.
