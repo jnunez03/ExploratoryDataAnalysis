@@ -213,7 +213,7 @@ We've heard of linear regression to make predictions. Well, our data does not ha
 
 ## Notes
 - The graph shows that Distinct Page Views was the most important when figuring out if someone would make a Phone Order.
-- The second, third, & 4th most important variables were traffic source: direct entry, traffic source: natural search, and if someone resided in california.
+- The 2nd, 3rd, & 4th most important variables were traffic source: direct entry, traffic source: natural search, and if someone resided in california. However, these were all tied in importance. Along with, residing in florida, texas, and if someone entered through paid search.
 
 # End Notes
 - Every model is different. We can get different results. However, random forest creates this classifier randomly. It generalizes well to our data and was 98% accurate in predicting a phone order given the variables that I decided to include based on context.  
