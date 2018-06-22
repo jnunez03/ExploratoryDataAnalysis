@@ -195,3 +195,25 @@ We've heard of linear regression to make predictions. Well, our data does not ha
 ### Random Forest can make predictions and works well for categorical variables.
 - After running my model, I was able to predict Phone Orders with a 98% accuracy level.
 - We can also check which variables are the most "predictive" when asking who will make a Phone Order.
+- In other words, what variable is most important when asking who will make a phone order.
+![variableimportance](https://user-images.githubusercontent.com/23710841/41757833-a1738c56-75b2-11e8-906b-f6a9d8469633.png)
+#### Caveat: I used a subset of the data. So, I used top 10 ISPs in our data. I only included top 11 states, and the top 6 browser types.
+#### I did not use:
+- Landing Page
+- Order ID
+- Zip Code
+- OS Name
+- Metro Name
+- Manufacturer
+- Country 
+- Connection Speed
+- Session Start Time
+- Session Id
+- City
+
+## Notes
+- The graph shows that Distinct Page Views was the most important when figuring out if someone would make a Phone Order.
+- The second, third, & 4th most important variables were traffic source: direct entry, traffic source: natural search, and if someone resided in california.
+
+# End Notes
+- Every model is different. We can get different results. However, random forest creates this classifier randomly. It generalizes well to our data and was 98% accurate in predicting a phone order given the variables that I decided to include based on context.  
