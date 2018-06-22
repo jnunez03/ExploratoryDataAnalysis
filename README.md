@@ -173,15 +173,14 @@ ________________________________________________________________________________
 - A large amount has their Internet Service Provider as "Frontier Communications of America Inc" and "Time Warner". This could be why many people did not convert. Given that this could have been geared towards ISP provider, since many already had a different provider, they opted to not purchase which is why they stopped at the first page. 
 - As shown earlier, a lot of people who had Time Warner atually converted, and a large portion who didn't. Maybe there is something about Time Warner that made people convert. Since there were many of them, we can market towards Time Warner and work on those kinds of people to increase conversion. Take advantage of the #'s.
 - 11,972 came from direct entry. 5,122 came from paid search.
-
-
 ## Next?
 - Definitely working to improve mobile, because we get a better turnout.
 - Also, figure out why desktop is not performing better. Is it the ads? The experience? Maybe someone just does not want to purchase the product? Are the incentives good enough for them to make a purchase? Is the marketing being tailored for different people.
 - A lot of people who were from Time Warner made a purchase. Dig deeper into figuring out why seems advantageous for conversion.
-
-# Caveat
+## Caveat
 - Sometimes data doesn't answer all of our questions. Sometimes low turnout is just the way things are. Analyzing data does not automatically mean we will increase turnout, it means we can now leverage the information to improve with the goal to increase conversion. 
 - Sometimes it's the small things that make a difference. How much can we personalize? 
 
 ##### Also Tableau could have been used to plot States/Cities visuals. 
+# Next up? Predictive Analysis
+## Can we predict if someone will convert? What variables are strongest when we think about conversion? Coming up.
