@@ -282,3 +282,111 @@ df9['Isp Name'].value_counts()
 df9['traffic Source'].value_counts()
 df9['Device Type'].value_counts()
 df9['Landing Page Raw'].value_counts()
+
+
+#   ****     Model:   Random Forest
+
+dfsub1 = df[df['Isp Name'].isin(["frontier communications of america inc.",
+                                 "time warner cable internet llc",
+                                 "comcast cable communications inc.",
+                                 "verizon wireless",
+                                 "mci communications services inc. dba verizon business",
+                                 "att internet services",
+                                 "qwest communications company llc",
+                                 "att mobility llc",
+                                 "southern new england telephone company and snet america inc.",
+                                 "t-mobile usa inc.",
+                                 "charter communications"])]
+
+dfsub2 = dfsub1[dfsub1["State"].isin(["ca","fl","tx","ct","in","pa","wa","il","ny","az","oh"])]
+
+dfsub3 = dfsub2[dfsub2["Browser Name"].isin(["Chrome","Safari","Chrome Mobile","Internet Explorer", "Edge", "Firefox"])]
+
+dfsub3['Browser Name'].value_counts()
+
+del dfsub3['Landing Page Raw']
+del dfsub3['Order ID']
+del dfsub3['Zip Code']
+del dfsub3['Os Name']
+del dfsub3['Metro Name']
+del dfsub3['Manufacturer']
+del dfsub3['Country']
+del dfsub3['Connection Speed']
+del dfsub3['Session Start Time']
+del dfsub3['Session Id']
+del dfsub3['City']
+
+
+dfsub3['Phone Order'].value_counts()
+dfsub3['Cart Order'].value_counts()
+
+dfsub4 = pd.get_dummies(dfsub3)
+dfsub4.dtypes
+dfsub4.head()
+
+# We want to predict Phone Orders!
+labels = np.array(dfsub4['Phone Order'])
+
+# Drop our target variable from our data!
+dfsub5 = dfsub4.drop('Phone Order', axis = 1)
+# Drop cart order. We wont use it to predict phone orders.
+dfsub5 = dfsub5.drop('Cart Order', axis = 1)
+
+# Save variable name to list
+df_list = list(dfsub5.columns)
+
+# Convert to numpy array
+dfsub5 = np.array(dfsub5)
+
+from sklearn.model_selection import train_test_split
+
+# Split the data into training and testing sets
+train_features, test_features, train_labels, test_labels = train_test_split(dfsub5, labels, test_size = 0.25, random_state = 42)
+
+
+# Check the shape
+train_features.shape
+train_labels.shape
+# We split our data and we can see difference in amount of data
+test_features.shape
+test_labels.shape
+
+
+# Algorithm
+from sklearn.ensemble import RandomForestClassifier
+
+rf = RandomForestClassifier(n_estimators = 1000, random_state = 42)
+# Train the model on training data
+rf.fit(train_features, train_labels)
+
+
+predictions = rf.predict(test_features)
+
+
+print('Train score: ', rf.score(train_features, train_labels))
+print('Test Score: ', rf.score(test_features, test_labels))
+
+importances = list(rf.feature_importances_)
+
+feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(df_list, importances)]
+
+
+feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = True)
+
+print(feature_importances)
+
+
+
+
+
+
+# Set the style
+plt.style.use('fivethirtyeight')
+# list of x locations for plotting
+x_values = list(range(len(importances)))
+# Make a bar chart
+plt.bar(x_values, importances, orientation = 'vertical')
+# Tick labels for x axis
+plt.xticks(x_values, df_list, rotation='vertical')
+# Axis labels and title
+plt.ylabel('Importance'); plt.xlabel('Variable'); plt.title('Variable Importances');
