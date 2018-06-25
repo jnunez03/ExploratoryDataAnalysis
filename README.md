@@ -54,7 +54,7 @@ ________________________________________________________________________________
 ### When did they visit the site (AM or PM) and on what days?
 ![cartdaynight1](https://user-images.githubusercontent.com/23710841/41831151-67a8fc28-7813-11e8-97a3-62b36d1c2670.png)
 ![cartdaynight2](https://user-images.githubusercontent.com/23710841/41831152-67b3c5ea-7813-11e8-8856-5ed8f9ed9234.png)
-
+- On March 2nd: Phone orders in AM exceeded PM. However, that is not that case for Cart Orders. PM dominated everyday.
 #### Other:
 - ISPs. Most had: Time Warner, Tmobile, and At&t.
 - Came from Cali, Texas, Florida.
