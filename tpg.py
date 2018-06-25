@@ -82,6 +82,7 @@ df2 = df[df['Phone Order'] == 1]
 # Convert dates in phone orders to datetime format using pandas
 df2['Date Visited'] = df2['Session Start Time'].str[0:7]
 df2['Date Visited']= pd.to_datetime(df2['Date Visited'])
+df2['Date Visited'] = df2['Date Visited'].dt.date # Just get the Date and leave out time (which is just 00:00:00 in this case).
 df2['Date Visited'].value_counts()
 
 df2['Date Visited'].value_counts()
