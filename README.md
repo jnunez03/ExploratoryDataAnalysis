@@ -28,7 +28,7 @@
 - In other words, people on desktop wanted to visit more sites before making a phone order, whereas people who made a phone order already being on their phone saw less web pages! It took less pages for people on the phone to make an order!
 ### When did they visit the site (AM or PM) and on what days?
 ![dayornight1](https://user-images.githubusercontent.com/23710841/41830893-a6896e34-7811-11e8-9d57-d9c2b323241e.png)
-![dayornight2](https://user-images.githubusercontent.com/23710841/41830894-a69b1526-7811-11e8-8254-4ff156497169.png)
+![dayornight2 2](https://user-images.githubusercontent.com/23710841/41831068-ed6d4d74-7812-11e8-8fca-03b54cc942f3.png)
 #### Other:
 - ISPs. Most had: Time Warner, Verizon, Comcast, and At&t (in that order). 
 - Came from Cali, Texas, Florida.
