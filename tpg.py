@@ -42,18 +42,44 @@ df['Session Id'].value_counts()
 len(df) # 20189 rows.
 
 df['Device Type'].value_counts() # check the number of times a device is in our data set.
-
-
 df['Cart Order'].value_counts() # Check how many cart orders there were.
+
+
+#  ****    time AM/PM and dates  
+
+#  Extract AM/PM from session start time
+#  and put it into a new column
+
+# Convert it to string, take out whitespace
+df["Session Start Time"] = df["Session Start Time"].astype('str')
+df["Session Start Time"] = df["Session Start Time"].str.strip()
+df["Session Start Time"] = df["Session Start Time"].str.lstrip()
+
+
+df["Session Start Time"].str[12:17] #extract the AM/PM part from Session Start Time
+
+# However numbers are found in the above string subset from character length 12 to 17 not including 17.
+
+# Create new column
+df["DayOrNight"] = np.nan
+
+# Extracted AM-PM into a new column: called DayOrNight
+df["DayOrNight"] = df["Session Start Time"].str[12:17].str.replace('\d+', '') # We replace the number found with whitespace
+# To only have AM/PM registered in new column
+
+# check if it works
+df.head()
+
+
 
 # Take a subset of the data where people made a phone order.
 df2 = df[df['Phone Order'] == 1]
 
-# Parse the data visited to just get the date.
+# Convert dates in phone orders to datetime format using pandas
 df2['Date Visited'] = df2['Session Start Time'].str[0:7]
-
-# convert to datetimes
 df2['Date Visited']= pd.to_datetime(df2['Date Visited'])
+df2['Date Visited'].value_counts()
+
 df2['Date Visited'].value_counts()
 
 df2['Device Type'].value_counts() # See how much people in this subset came from each device
