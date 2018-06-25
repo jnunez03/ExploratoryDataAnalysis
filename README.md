@@ -11,8 +11,13 @@
 - Mobile:  4794 people
 - Tablet:  1157 people
 - Not all Session ID's were unique! This may cause double-counting. We have to drop duplicate values!! There were only 67 duplicate session ID's. When I looked further into the duplicated rows, the rest of the data was the same, so data quality remains the same, desipite dropping these values. 
+## Right away: Site Visits and Distinct Page Views
+![ftegraphvisitsdistinctpageviews](https://user-images.githubusercontent.com/23710841/41834884-b3167838-7823-11e8-83ae-a9abf6c2a038.png)
 ## First up: People who ended up making a Phone Order!
 - They could have came from either mobile, desktop, or tablet, but the important thing is they *ended up* purchasing through mobile!
+![ftegraphphone](https://user-images.githubusercontent.com/23710841/41834883-b30a4c3e-7823-11e8-82c9-ac9f91127a43.png)
+![correlation](https://user-images.githubusercontent.com/23710841/41834882-b2dc85e2-7823-11e8-9ff5-92a2b0d3c37c.png)
+- We see that there is a distinct correlation between phone orders and distinct page views.
 ### Breakdown
 ![where1](https://user-images.githubusercontent.com/23710841/41747573-6a7ea9c8-757c-11e8-9942-17bdbbc5c612.png)
 - This graph shows us a breakdown of people who made a Phone Order. What hardware they were using as well as how they got to the site.
