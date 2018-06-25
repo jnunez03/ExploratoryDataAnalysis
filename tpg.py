@@ -49,8 +49,13 @@ df['Cart Order'].value_counts() # Check how many cart orders there were.
 # Take a subset of the data where people made a phone order.
 df2 = df[df['Phone Order'] == 1]
 
-# Parse the data visited to just get the date (However, did not use).
+# Parse the data visited to just get the date.
 df2['Date Visited'] = df2['Session Start Time'].str[0:7]
+
+# convert to datetimes
+df2['Date Visited']= pd.to_datetime(df2['Date Visited'])
+df2['Date Visited'].value_counts()
+
 df2['Device Type'].value_counts() # See how much people in this subset came from each device
 df2['State'].value_counts() # Where they came from. 
 len(df2) # how big is this subset
