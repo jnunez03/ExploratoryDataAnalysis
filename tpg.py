@@ -121,6 +121,18 @@ sb.plt.title('Phone Orders: How many pages were clicked? \n')
 #     ***   CART ORDERS SUBSET  *** 
 df1 = df[df['Cart Order'] == 1]
 
+# extract times
+df1['Date Visited'] = df['Session Start Time'].str[0:7]
+df1['Date Visited']= pd.to_datetime(df1['Date Visited'])
+df1['Date Visited'] = df1['Date Visited'].dt.date # only keep date!
+df1['Date Visited'].value_counts()
+
+# Plot the times they went on the site and made phone purchase
+sb.countplot(x="DayOrNight", data=df1)
+sb.countplot(y=df1['Date Visited'].sort_values(ascending=False), hue="DayOrNight", data=df1)
+
+
+
 
 df1['Device Type'].value_counts()
 df1['State'].value_counts()
