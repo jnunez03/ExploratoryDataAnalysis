@@ -51,6 +51,10 @@ ________________________________________________________________________________
 - 2 page views leads again, but 3 distinct site views is higher on cart orders than phone orders.
 ![distinct2](https://user-images.githubusercontent.com/23710841/41747751-1f2dd628-757d-11e8-9794-6eb8cada2c1e.png)
 - Despite being mobile/desktop, when people make a desktop cart order, they generally see more than 1 page!
+### When did they visit the site (AM or PM) and on what days?
+![cartdaynight1](https://user-images.githubusercontent.com/23710841/41831151-67a8fc28-7813-11e8-97a3-62b36d1c2670.png)
+![cartdaynight2](https://user-images.githubusercontent.com/23710841/41831152-67b3c5ea-7813-11e8-8856-5ed8f9ed9234.png)
+
 #### Other:
 - ISPs. Most had: Time Warner, Tmobile, and At&t.
 - Came from Cali, Texas, Florida.
