@@ -74,6 +74,53 @@ df["DayOrNight"] = df["DayOrNight"].str.lstrip()
 # check if it works
 df.head()
 
+###  For Beginning 2 plots
+df.dtypes
+colors = [[0,0,0], [230/255,159/255,0], [86/255,180/255,233/255], [0,158/255,115/255], 
+          [213/255,94/255,0], [0,114/255,178/255]]
+
+# Plot 1
+
+plt.text(x = "2018-02-17", y = 1970, 
+               s = 'Daily Number of Site Visits & Distinct Page Views',
+              fontsize = 25, alpha = .95)
+df['Date Visited'].value_counts().plot(linewidth=3,c=colors[2], legend=True)
+df.groupby('Date Visited')['Distinct Page Views'].sum().plot(linewidth=3,c=colors[1],legend=True)
+
+# Get the daily difference between visits and page views!
+x = np.array([df.groupby('Date Visited')['Distinct Page Views'].sum().values]) - np.array([df['Date Visited'].value_counts().values])
+
+print(np.mean(x))
+
+df2 = df[df['Phone Order'] == 1]
+
+df2.groupby('Date Visited')['Phone Order'].sum().plot(linewidth=3,c=colors[5],legend=True)
+df2.groupby('Date Visited')['Distinct Page Views'].sum().plot(linewidth=3,c=colors[4],legend=True)
+plt.text(x = "2018-02-17", y = 92, s = "Daily Phone Orders",
+               fontsize = 25, weight = 'bold', alpha = .95)
+plt.text(x = "2018-02-17", y = 87, 
+               s = 'Distinct page views looks highly correlated with phone orders',
+              fontsize = 15, alpha = .85)
+
+# Correlation
+corr = df.corr()
+
+# Generate a mask for the upper triangle
+mask = np.zeros_like(corr, dtype=np.bool)
+mask[np.triu_indices_from(mask)] = True
+
+# Set up the matplotlib figure
+f, ax = plt.subplots(figsize=(11, 9))
+
+# Generate a custom diverging colormap
+cmap = sb.diverging_palette(220, 10, as_cmap=True)
+
+# Draw the heatmap with the mask and correct aspect ratio
+sb.heatmap(corr, mask=mask, cmap=cmap, vmax=.3, center=0,
+            square=True, linewidths=.5, cbar_kws={"shrink": .5})
+######
+
+
 
 
 # Take a subset of the data where people made a phone order.
