@@ -67,6 +67,10 @@ df["DayOrNight"] = np.nan
 df["DayOrNight"] = df["Session Start Time"].str[12:17].str.replace('\d+', '') # We replace the number found with whitespace
 # To only have AM/PM registered in new column
 
+# Now take out the left whitespace in the string:
+# EX: " AM" is different from "AM" 
+df["DayOrNight"] = df["DayOrNight"].str.lstrip()
+
 # check if it works
 df.head()
 
