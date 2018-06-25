@@ -85,7 +85,12 @@ df2['Date Visited']= pd.to_datetime(df2['Date Visited'])
 df2['Date Visited'] = df2['Date Visited'].dt.date # Just get the Date and leave out time (which is just 00:00:00 in this case).
 df2['Date Visited'].value_counts()
 
-df2['Date Visited'].value_counts()
+
+# Plot the times they went on the site and made phone purchase
+sb.countplot(x="DayOrNight", data=df2)
+sb.countplot(y="Date Visited", hue="DayOrNight", data=df2)
+
+
 
 df2['Device Type'].value_counts() # See how much people in this subset came from each device
 df2['State'].value_counts() # Where they came from. 
