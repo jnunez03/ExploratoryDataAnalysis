@@ -88,7 +88,7 @@ df2['Date Visited'].value_counts()
 
 # Plot the times they went on the site and made phone purchase
 sb.countplot(x="DayOrNight", data=df2)
-sb.countplot(y="Date Visited", hue="DayOrNight", data=df2)
+sb.countplot(y=df2['Date Visited'].sort_values(ascending=False), hue="DayOrNight", data=df2)
 
 
 
