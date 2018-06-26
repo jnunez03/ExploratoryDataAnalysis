@@ -76,6 +76,7 @@ df.head()
 
 ###  For Beginning 2 plots
 df.dtypes
+# These colors are color-blind friendly!
 colors = [[0,0,0], [230/255,159/255,0], [86/255,180/255,233/255], [0,158/255,115/255], 
           [213/255,94/255,0], [0,114/255,178/255]]
 
@@ -427,6 +428,18 @@ del dfsub3['Connection Speed']
 del dfsub3['Session Start Time']
 del dfsub3['Session Id']
 del dfsub3['City']
+
+""" This could have been done differently by using a set 
+
+ignore = {'Landing Page Raw', 'Order ID', 'Zip Code', 'Os Name',
+           'Metro Name', 'Manufacturer', 'Country', 'Connection Speed',
+           'Session Start Time', 'Session Id', 'City'}
+cols = [c for c in dfsub3 if c not in igore]
+
+X = dfsub3[cols]  # predictor variables
+Y = dfsub3["Phone Order"] # Response Variable 
+
+""" 
 
 # Ad-hoc analysis of how many phone/cart orders were made
 dfsub3['Phone Order'].value_counts()
