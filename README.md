@@ -10,7 +10,7 @@
 - Desktop: 14,238 people using desktop computers.
 - Mobile:  4794 people
 - Tablet:  1157 people
-- Not all Session ID's were unique! This may cause double-counting. We have to drop duplicate values!! There were only 67 duplicate session ID's. When I looked further into the duplicated rows, the rest of the data was the same, so data quality remains the same, desipite dropping these values. 
+- Not all Session ID's were unique! This may cause double-counting. We have to drop duplicate values!! There were only 67 duplicate session ID's. When I looked further into the duplicated rows, the rest of the data was the same, so data quality remains the same, despite dropping these values. 
 ## Right away: Site Visits and Distinct Page Views
 ![ftegraphvisitsdistinctpageviews](https://user-images.githubusercontent.com/23710841/41834884-b3167838-7823-11e8-83ae-a9abf6c2a038.png)
 ## First up: People who ended up making a Phone Order!
